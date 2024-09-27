@@ -20,7 +20,7 @@ During the Google Summer of Code 2024 program, my work focused on significantly 
 
 ## Demo Video
 
-[![Watch the video](assets/thumbnail.png)](https://drive.google.com/file/d/1E31UDGO72xSPWmy_6Q2YJA7WOc35wcyo/view?usp=sharing)
+[![Watch the video](assets/thumbnail.png)](https://drive.google.com/file/d/1lALLjzYHNCQ4hGl824CHo6BqkDSu9z3-/view?usp=sharing)
 
 ## What work was done
 
